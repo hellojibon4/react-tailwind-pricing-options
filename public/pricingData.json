@@ -1,0 +1,224 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": "$9.99/month",
+    "description": "Perfect for individuals starting a simple website.",
+    "features": [
+      "1 Website",
+      "10 GB Storage",
+      "Email Support",
+      "Free SSL Certificate",
+      "Basic Analytics",
+      "1 Database",
+      "Shared Hosting",
+      "No Custom Domain",
+      "Community Access",
+      "Limited Bandwidth"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "popular": true,
+    "price": "$19.99/month",
+    "description": "Great for small businesses with moderate traffic.",
+    "features": [
+      "5 Websites",
+      "50 GB Storage",
+      "Priority Email Support",
+      "Free SSL Certificate",
+      "Advanced Analytics",
+      "5 Databases",
+      "Custom Domain Support",
+      "Improved Security",
+      "Weekly Backups",
+      "Moderate Bandwidth"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": "$29.99/month",
+    "description": "Best for professionals needing more performance.",
+    "features": [
+      "10 Websites",
+      "200 GB Storage",
+      "24/7 Chat Support",
+      "Free Domain for 1 Year",
+      "Advanced Analytics Dashboard",
+      "10 Databases",
+      "Enhanced Security",
+      "Daily Backups",
+      "Unlimited Bandwidth",
+      "SEO Optimization Tools"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Business Plan",
+    "popular": true,
+    "price": "$49.99/month",
+    "description": "Ideal for growing companies with heavy traffic.",
+    "features": [
+      "Unlimited Websites",
+      "500 GB SSD Storage",
+      "Dedicated Account Manager",
+      "Free Domain Forever",
+      "Team Collaboration Tools",
+      "Performance Monitoring",
+      "Custom Branding",
+      "Advanced Firewall",
+      "API Access",
+      "99.9% Uptime Guarantee"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Enterprise Plan",
+    "price": "Custom",
+    "description": "Tailored solutions for large organizations.",
+    "features": [
+      "Unlimited Websites & Apps",
+      "Unlimited SSD Storage",
+      "24/7 Premium Support",
+      "Dedicated Cloud Server",
+      "Custom Security Setup",
+      "Multi-user Management",
+      "White Label Solutions",
+      "AI-powered Optimization",
+      "Full Data Backup & Restore",
+      "Custom Integrations"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Starter Plan",
+    "popular": true,
+    "price": "$5.99/month",
+    "description": "A lightweight plan for hobby projects.",
+    "features": [
+      "1 Website",
+      "5 GB Storage",
+      "Community Support",
+      "Free Templates",
+      "Basic SEO Tools",
+      "Single User Access",
+      "Shared Hosting",
+      "Limited Bandwidth",
+      "No Custom Domain",
+      "Basic Analytics"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Developer Plan",
+    "popular": true,
+    "price": "$14.99/month",
+    "description": "Made for developers needing flexibility.",
+    "features": [
+      "3 Websites",
+      "100 GB Storage",
+      "Git Integration",
+      "Email & Chat Support",
+      "Custom Domain",
+      "Daily Backups",
+      "Advanced Analytics",
+      "SSL Certificate",
+      "Multi-user Access",
+      "Moderate Bandwidth"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "E-commerce Plan",
+    "popular": true,
+    "price": "$39.99/month",
+    "description": "Perfect for online stores with growing customers.",
+    "features": [
+      "Unlimited Products",
+      "Payment Gateway",
+      "Sales Analytics",
+      "Inventory Management",
+      "Customer Accounts",
+      "Discount & Coupons",
+      "Shipping Integration",
+      "SSL Security",
+      "Marketing Tools",
+      "24/7 Support"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Agency Plan",
+    "price": "$59.99/month",
+    "description": "Built for digital agencies managing multiple clients.",
+    "features": [
+      "Multi-client Dashboard",
+      "White Label",
+      "Unlimited Hosting",
+      "Team Management",
+      "Priority Support",
+      "Custom Branding",
+      "Advanced Analytics",
+      "API Access",
+      "Daily Backups",
+      "Performance Monitoring"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Ultimate Plan",
+    "price": "$99.99/month",
+    "description": "All-in-one package with maximum features.",
+    "features": [
+      "Unlimited Everything",
+      "Dedicated Manager",
+      "24/7 VIP Support",
+      "Advanced Security",
+      "AI Optimization",
+      "Custom Integrations",
+      "Priority Server",
+      "Marketing Automation",
+      "Custom Reports",
+      "Performance Analytics"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Personal Plan",
+    "price": "$7.99/month",
+    "description": "For personal projects and blogs.",
+    "features": [
+      "1 Website",
+      "15 GB Storage",
+      "Email Support",
+      "Basic SEO Tools",
+      "Free Templates",
+      "1 Database",
+      "Shared Hosting",
+      "Community Access",
+      "Limited Bandwidth",
+      "Basic Analytics"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Team Plan",
+    "popular": true,
+    "price": "$24.99/month",
+    "description": "Collaboration plan for small teams.",
+    "features": [
+      "5 Websites",
+      "100 GB Storage",
+      "Team Chat Support",
+      "Advanced Analytics",
+      "Daily Backups",
+      "Custom Domain Support",
+      "Collaboration Tools",
+      "Priority Support",
+      "API Access",
+      "Moderate Bandwidth"
+    ]
+  }
+]

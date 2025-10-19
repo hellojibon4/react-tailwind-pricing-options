@@ -1,0 +1,142 @@
+[
+    {
+        "student_id": 1,
+        "name": "Rakib Hasan",
+        "physics": 85,
+        "chemistry": 78,
+        "math": 92
+    },
+    {
+        "student_id": 2,
+        "name": "Sadia Akter",
+        "physics": 90,
+        "chemistry": 88,
+        "math": 95
+    },
+    {
+        "student_id": 3,
+        "name": "Naimul Islam",
+        "physics": 76,
+        "chemistry": 80,
+        "math": 85
+    },
+    {
+        "student_id": 4,
+        "name": "Mehedi Hasan",
+        "physics": 82,
+        "chemistry": 75,
+        "math": 89
+    },
+    {
+        "student_id": 5,
+        "name": "Farhana Ahmed",
+        "physics": 93,
+        "chemistry": 91,
+        "math": 97
+    },
+    {
+        "student_id": 6,
+        "name": "Tanjila Rahman",
+        "physics": 79,
+        "chemistry": 85,
+        "math": 88
+    },
+    {
+        "student_id": 7,
+        "name": "Abir Khan",
+        "physics": 88,
+        "chemistry": 82,
+        "math": 90
+    },
+    {
+        "student_id": 8,
+        "name": "Sumaiya Akter",
+        "physics": 95,
+        "chemistry": 94,
+        "math": 98
+    },
+    {
+        "student_id": 9,
+        "name": "Rafiul Islam",
+        "physics": 70,
+        "chemistry": 72,
+        "math": 75
+    },
+    {
+        "student_id": 10,
+        "name": "Shorna Akter",
+        "physics": 34,
+        "chemistry": 40,
+        "math": 35
+    },
+    {
+        "student_id": 11,
+        "name": "Mahfuz Rahman",
+        "physics": 77,
+        "chemistry": 83,
+        "math": 81
+    },
+    {
+        "student_id": 12,
+        "name": "Jannatul Ferdous",
+        "physics": 92,
+        "chemistry": 89,
+        "math": 94
+    },
+    {
+        "student_id": 13,
+        "name": "Arif Hossain",
+        "physics": 68,
+        "chemistry": 74,
+        "math": 70
+    },
+    {
+        "student_id": 14,
+        "name": "Tasnim Chowdhury",
+        "physics": 86,
+        "chemistry": 88,
+        "math": 90
+    },
+    {
+        "student_id": 15,
+        "name": "Mizanur Rahman",
+        "physics": 80,
+        "chemistry": 79,
+        "math": 84
+    },
+    {
+        "student_id": 16,
+        "name": "Ruma Akter",
+        "physics": 89,
+        "chemistry": 91,
+        "math": 93
+    },
+    {
+        "student_id": 17,
+        "name": "Hasibul Hasan",
+        "physics": 75,
+        "chemistry": 70,
+        "math": 78
+    },
+    {
+        "student_id": 18,
+        "name": "Sanjida Islam",
+        "physics": 94,
+        "chemistry": 90,
+        "math": 96
+    },
+    {
+        "student_id": 19,
+        "name": "Towhidul Alam",
+        "physics": 83,
+        "chemistry": 85,
+        "math": 87
+    },
+    {
+        "student_id": 20,
+        "name": "Fahmida Khatun",
+        "physics": 91,
+        "chemistry": 92,
+        "math": 95
+    }
+]
